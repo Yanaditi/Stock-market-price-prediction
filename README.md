@@ -1,1 +1,1 @@
-# Stock-market-price-prediction
+The Stock Market Growth Predictor project uses machine learning to predict stock price movements based on historical data. It collects and preprocesses stock market data, applies feature engineering, and trains a model to make predictions. The goal is to help investors make informed decisions. The project leverages Facebook's Prophet algorithm for real-time prediction of US-based company stocks.
